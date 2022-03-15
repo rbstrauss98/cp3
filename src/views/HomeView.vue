@@ -22,7 +22,7 @@
   <BookList :products="products" />
   <div class="footer">
     <p class="footer-text">This is the link to my github repository for this lab: 
-    <a href="https://github.com/rbstrauss98/creativeproject2.git">repository</a>
+    <a href="https://github.com/rbstrauss98/cp3">repository</a>
     </p>   
   </div>
 </div>
